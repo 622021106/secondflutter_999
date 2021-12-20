@@ -118,7 +118,7 @@ class MyHomePage extends StatelessWidget {
               ),
             ),
             Text(
-              '50 นาที',
+              '20 นาที',
               style: TextStyle(
                 color: Colors.black54,
                 fontSize: 14,
@@ -156,7 +156,7 @@ class MyHomePage extends StatelessWidget {
               ),
             ),
             Text(
-              '5 เสิร์ฟ',
+              '1 เสิร์ฟ',
               style: TextStyle(
                 color: Colors.black54,
                 fontSize: 14,
